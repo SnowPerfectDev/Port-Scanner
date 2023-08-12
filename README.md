@@ -25,7 +25,7 @@ The **Port Scanner** is a command-line tool designed to facilitate quick and eff
 
 ### Example
 
-To scan port 80 using TCP Connect scan on a list of hosts from "hosts.txt" file:./port_scanner.sh -h hosts.txt -p 80 -s T
+To scan port 80 using TCP Connect scan on a list of hosts from "hosts.txt" file: ./port_scanner.sh -h hosts.txt -p 80 -s T
 
 ---
 
